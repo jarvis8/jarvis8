@@ -1,5 +1,5 @@
 
-##  Hey<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> ,I'm [Nalin!](https://jarvis8.github.io) 
+##  Hey<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> ;I'm [Nalin!](https://jarvis8.github.io) 
 
 <br />
 <p align="center">
