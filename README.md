@@ -3,7 +3,7 @@
 
 <br />
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=An+undergraduate+student;Pursuing+Computer+Science+Engineering&font=Fira%20Code&center=true&width=1100&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=An+undergraduate+CSE+student&font=Fira%20Code&center=true&width=1100&height=50">
 </p>
 
 ---
