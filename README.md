@@ -34,10 +34,10 @@
 ---
 <div align = "center">
 <a href="https://github.com/jarvis8">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushanand09&theme=tokyonight&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jarvis8&theme=tokyonight&hide_border=true" />
 </a>
 <a href="https://github.com/jarvis8">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=ayushanand09&show_icons=true&theme=tokyonight&hide_border=true" alt="Ayush's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=jarvis8&show_icons=true&theme=tokyonight&hide_border=true" alt="Nalin's github stats"/>
 </a>
 </div>
 
