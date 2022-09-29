@@ -44,7 +44,7 @@ I'm [Nalin!](https://jarvis8.github.io)
 
 ---
 
-### Connect with me:
+### Connect to me:
 <a href="https://www.linkedin.com/in/nalin-banga-b19a27133/">
   <img align="left" width="24px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"  />
 </a>
