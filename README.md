@@ -43,6 +43,7 @@ I'm [Nalin!](https://jarvis8.github.io)
 </div>
 
 ---
+[![@jarvis8's Holopin board](https://holopin.me/jarvis8)](https://holopin.io/@jarvis8)
 
 ### Connect to me:
 <a href="https://www.linkedin.com/in/nalin-banga-b19a27133/">
@@ -56,6 +57,5 @@ I'm [Nalin!](https://jarvis8.github.io)
 </a>
 <br/>
 
-###Open_source badges
-[![@jarvis8's Holopin board](https://holopin.me/jarvis8)](https://holopin.io/@jarvis8)
+
 
