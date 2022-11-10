@@ -1,13 +1,8 @@
 
 ##  Hey<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> 
-I'm [Nalin!](https://jarvis8.github.io) 
 
-<br />
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=An+undergraduate+CSE+student&font=Fira%20Code&center=true&width=1100&height=50">
-</p>
+## I'm [Nalin!](https://jarvis8.github.io) 
 
----
      
 - 🔭 I’m currently working on something intersting.
 - 🌱 I’m currently learning Reactjs and Nodejs
