@@ -45,6 +45,8 @@ I'm [Nalin!](https://jarvis8.github.io)
 ---
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=jarvis8&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
+
+## Holopin
 [![@jarvis8's Holopin board](https://holopin.me/jarvis8)](https://holopin.io/@jarvis8)
 
 ### Connect to me:
