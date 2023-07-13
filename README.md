@@ -29,14 +29,14 @@
 <br />
 
 ---
-<div align = "center">
-<a href="https://github.com/jarvis8">
+\<div align = "center">
+\<a href="https://github.com/jarvis8">
  
-</a>
-<a href="https://github.com/jarvis8">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=jarvis8&show_icons=true&theme=tokyonight&hide_border=true" alt="Nalin's github stats"/>
-</a>
-</div>
+\</a>
+\<a href="https://github.com/jarvis8">
+ \<img align="center" src="https://github-readme-stats.vercel.app/api?username=jarvis8&show_icons=true&theme=tokyonight&hide_border=true" alt="Nalin's github stats"/>
+\</a>
+\</div>
 
 ---
 ## 🏆 GitHub Trophies
